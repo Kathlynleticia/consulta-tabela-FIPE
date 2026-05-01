@@ -72,10 +72,18 @@ git clone https://github.com/Kathlynleticia/consulta-tabela-FIPE.git
 
 ## Demonstração - Execução do Sistema
 <br>
-![menu](images/menu.j)<br>
-<br>
-![Arquivo JSON gerado](images/json.jpg)
 
+![menu](images/menu.jpg)<br>
+<br>
+![Código marca](images/retorno1.jpg)<br>
+<br>
+![trecho nome](images/retorno2.jpg)<br>
+<br>
+![código do modelo](images/retorno3.jpg)<br>
+<br>
+![resultado](images/retorno4.jpg)
+
+---
 
 ## Aprendizados
 
