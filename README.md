@@ -10,7 +10,7 @@ Aplicação Java para consulta de veículos utilizando a API da Tabela FIPE.
 O sistema permite navegar por categorias, marcas, modelos e anos, retornando informações detalhadas como valor, combustível e ano do veículo.
 A aplicação guia o usuário por um fluxo de consultas até chegar ao valor atualizado de um veículo específico, com base nos dados da Tabela FIPE.
 
-Obs: Este projeto foi desenvolvidopara fins de estudo com o objetivo de praticar consumo de APIs, manipulação de dados e interação com o usuário via terminal.
+Obs: Este projeto foi desenvolvido para fins de estudo com o objetivo de praticar consumo de APIs, manipulação de dados e interação com o usuário via terminal.
 
 ---
 
