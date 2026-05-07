@@ -1,7 +1,7 @@
 # Consulta Tabela FIPE 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-[![API FIPE](https://img.shields.io/badge/API-FIPE-blue?style=for-the-badge)](https://parallelum.com.br/fipe/api/v1/)
+[![API FIPE](https://img.shields.io/badge/API-FIPE-blue?style=for-the-badge)](https://parallelum.com.br/fipe/)
 ![Status](https://img.shields.io/badge/status-finalizado-green?style=for-the-badge)
 
 ## Sobre o projeto
